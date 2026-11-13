@@ -2,7 +2,7 @@
 
 **[▶ Launch the interactive Streamlit demo](https://european-gas-storage-trading-knmug4zwhdgjtl9fgnfppf.streamlit.app)** — try the dashboard in your browser, no Python installation needed.
 
-**Explore:** [Python source](src/) · [Streamlit app code](app.py) · [Unit tests](tests/) · [Chart preview](assets/gas-preview.png) · [Run instructions](#run)
+**Explore:** [Python source](src/) · [Streamlit app code](app.py) · [Unit tests](tests/) · [Chart preview](assets/gas-preview.png) · [Run instructions](#quick-start)
 
 *The default example uses synthetic inputs; this is educational research, not live trading or an investment recommendation.*
 
