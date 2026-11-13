@@ -1,5 +1,12 @@
 # European Gas Trading & Storage Analytics
 
+**[▶ Launch the interactive Streamlit demo](https://european-gas-storage-trading-knmug4zwhdgjtl9fgnfppf.streamlit.app)** — try the dashboard in your browser, no Python installation needed.
+
+**Explore:** [Python source](src/) · [Streamlit app code](app.py) · [Unit tests](tests/) · [Chart preview](assets/gas-preview.png) · [Run instructions](#run)
+
+*The default example uses synthetic inputs; this is educational research, not live trading or an investment recommendation.*
+
+
 **Storage scarcity, seasonal TTF spreads and lagged-signal backtesting in Python.**
 
 ![Storage & TTF analytics preview](assets/gas-preview.png)
